@@ -1,0 +1,46 @@
+
+Stadt
+=====
+
+\includegraphics[height=200pt]{karl-marx-hof.jpg}
+
+Karl Marx Hof, 1927-30 errichtet von der Gemeinde Wien
+
+Architekt: Karl Ehn
+
+Das Miskroskop
+==============
+
+| Für die bürgerliche Gesellschaft ist aber die Warenform des 
+| Arbeitsprodukts oder die Wertform der Ware die ökonomische Zellenform. 
+|: Das Kapital - Vorwort der ersten Ausgabe
+
+Biologische Analogien sind bei vielen Autoren dieser Zeit anzutreffen, 
+so auch hier bei Marx.
+
+Es ist eine Umschreibung, die auch mit beinhaltet, daß Arbeit in der 
+Bürgerlichen Gesellschaft eine Ware ist. Eine Tatsache die sich auf 
+das Leben jeder einzelnen Person auswirkt. 
+
+% Man kann die Analogie noch weiter treiben und sagen, dass die Ware das Atom ist, 
+% aus dem die Zellen bestehen. Waren sind das elementare Ziel der Wirtschaft.
+
+\note{
+  Aus dem Vorwort zum ersten Band des Kapitals
+}
+
+
+Die Welt verändern
+==================
+
+| Man kann nicht U-Boote bauen, indem man Jules Verne liest; wir können
+| keine humanistische Gesellschaft schaffen, indem wir die Propheten lesen.
+|: Max Frisch ,,Haben oder Sein''
+   \newline Im Abschnitt: Eine neue Wissenschaft vom Menschen
+   
+\center{***}
+
+Aber es kann trotzdem hilfreich sein, zum Beispiel um über Ziele
+und Wege nachzudenken. 
+
+Schaffen wir alle Grenzen ab. 

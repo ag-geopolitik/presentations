@@ -1,0 +1,85 @@
+
+
+Soziologie
+==========
+
+| De Omnibus Dubitandum 
+|: (We ought to question everything)
+ — Karl Marx’s favourite motto.
+
+Heute zählt sein Werk zu den Grundlagentexten der
+Soziologie. Er ist Referenz für eine Betrachtungsweise
+von Gesellschaft, die Gruppen mit einander entgegengesetzten
+Interessen und die daraus hervorgehenden Kämpfe und Konflikte
+untersucht. 
+Dabei geht es auch um die Frage wie es dazu kommt, daß Menschen
+sich zu Klassen zusammenschließen.
+
+Sein Lebenswerk, die sozio-ökonomische Analyse der kapitalistischen
+Gesellschaft, die Darstellung der Faktoren, welche zu ihrer
+Entstehung führten und die Prognosen zur deren weiteren Entwicklung,
+werden heute als wichtiger Beitrag zur Entwicklung der Soziologie
+anerkannt.
+
+
+
+Konfliktanalyse als Gesellschaftsanalyse
+========================================
+
+Das ist aktiv weiter entwickeltes Paradigma in der Soziologie. Ein
+bekannter Vertreter ist Ralf Dahrendorf, der in ,,Der moderne soziale
+Konflikt'' (1992) einen Konflikt zwischen gesellschaftlichen
+
+\centering{Angeboten} und 
+
+\centering{Anrechten} beschreibt.
+
+\vspace{2em}
+
+\raggedright
+Eine kurz Einführung in diesen Ansatz ist in ,,Soziologie kompakt'' von
+Klaus Feldmann beschrieben.
+
+Systeme
+=======
+
+Kapitalismus: 
+  
+  - Freiheit vs. Sklaverei
+  
+  - Freiheit vs. Bürokratie
+
+Sozialismus:
+  
+  - Freiheit vs. Unmündigkeit
+  
+  - Freiheit vs. Arbeitszwang
+
+Kommunismus: Es gibt kein Gegenteil zur Freiheit mehr.
+
+Marxistische Soziologie
+=======================
+
+Materialismus ist die Basis für die Erklärung gesellschaftlicher 
+Zusammenhänge:
+
+* Anpassung an die Umwelt - Adaption
+
+* Ressourcen- und Arbeitsteilung - Integration
+
+* Kultur und Technologie - Latent Pattern Matching
+
+* Konfliktbewältigung - Goal selection and detection
+
+* Kontrolle über Kommunikation
+
+* Produktivkräfte bedingen Produktionsverhältnisse - Wandel und stufenweise Veränderung
+
+* gesellschaftlicher Überbau schafft einen Rahmen für das individuelle Verstehen von Gesellschaft
+
+Quellen
+=======
+Marx and Marxism - Peter Worsley
+
+http://www.bernd-hamm.uni-trier.de/veroeffentl/
+vortraege/marxistische\%20Soziologie.pdf

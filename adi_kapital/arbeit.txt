@@ -1,0 +1,30 @@
+
+Arbeit
+======
+
+% Umlaute in Dateinamen sind so eine Sache ;)
+\includegraphics[height=200pt]{suendenfall.jpg}
+
+Definition von Arbeit
+=====================
+
+% Die Grundlage aller gesellschaftlichen Organisation liegt in der Art, 
+% wie wir unser Leben in Auseinandersetzung mit der nichtmenschlichen 
+% Umwelt sicherstellen, unseren Stoffwechsel mit der Natur organisieren. 
+
+| Die Arbeit ist zunächst ein Prozess zwischen Mensch und Natur, ein Prozess,
+| worin der Mensch seinen Stoffwechsel mit der Natur durch seine eigene Tat 
+| vermittelt, regelt und kontrolliert. Er tritt dem Naturstoff selbst als eine 
+| Naturmacht gegenüber. Die seiner Leiblichkeit angehörenden Naturkräfte, Arme 
+| und Beine, Kopf und Hand, setzt er in Bewegung, um sich den Naturstoff in einer 
+| für sein eigenes Leben brauchbaren Form anzueignen. Indem er durch diese
+| Bewegung auf die Natur ausser ihm wirkt und sie verändert, verändert er zugleich
+| seine eigene Natur. 
+|: Karl Marx ,,Das Kapital'' Band I (MEW 23)
+
+Arbeit
+======
+
+\includegraphics[height=200pt]{sp.jpg}
+
+
